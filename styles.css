@@ -1,4 +1,13 @@
 .navbar {
-  padding 2rem;
-  background-color: blue;
+  padding: 1rem;
+  background-color: mistyrose !important;
+}
+
+.bg-secondary {
+  padding: 1rem !important;
+  background-color: mistyrose !important;
+}
+
+.btn-primary:hover {
+  background-color: #A3DDCF;
 }
