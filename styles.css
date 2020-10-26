@@ -3,6 +3,10 @@
   background-color: #FEF2F1 !important;
 }
 
+.navbar-expand {
+  justify-content: space-between;
+}
+
 .bg-secondary {
   padding: 1rem !important;
   background-color: #FEF2F1 !important;
